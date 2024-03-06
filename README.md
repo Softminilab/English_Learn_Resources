@@ -1,2 +1,3 @@
 # English_Learn_Resources
-English learn resources
+[The Oxford 3000](https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000.pdf) [British pronunciation standard]
+
